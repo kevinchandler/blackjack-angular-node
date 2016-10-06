@@ -1,12 +1,18 @@
 blackjack-angular-node
 ======================
 
-Simple blackjack player vs computer with AngularJS running on NodeJS 
+Simple blackjack player vs computer with AngularJS running on NodeJS
 
-You must have NodeJS installed on your machine.
+You must have [NodeJS](https://nodejs.org) installed on your machine.
 
-Run npm install from inside this directory and then run node app
+To run:
 
-The game is located in /public/controllers/mainController.js
+`$ cd blackjack-angular-node`
+
+`$ npm install`
+
+`$ node app`
+
+[Working Demo](http://blackjack-angular-node.herokuapp.com/)
 
 Feel free to contribute!
